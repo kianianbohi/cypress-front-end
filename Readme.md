@@ -142,7 +142,7 @@ E2E testing is typically performed by:
 - **QA Engineers:** Responsible for designing and executing test cases.
 - **Developers:** Write automated E2E tests as part of the development process.
 - **End Users:** In some cases, real users participate in beta testing to
-  provide feedback.
+  provide feedback (e.g Canary test).
 - **DevOps Engineers:** Ensure E2E tests are integrated into CI/CD pipelines for
   automated execution.
 
